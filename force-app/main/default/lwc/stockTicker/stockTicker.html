@@ -1,0 +1,16 @@
+<template>
+    
+    <template if:true={isLoading}>
+        <p>Loading price data...</p>
+    </template>
+    <template if:true={errorMessage}>
+        <p>Error: {errorMessage}</p>
+    </template>
+    <template if:true={currentPrice}>
+        <p>Symbol: {currentPrice.Symbol__c}</p>
+        <p>Price: {currentPrice.Price__c}</p>
+        <p>Volume: {currentPrice.Volume__c}</p>
+        <p>Last Updated date: {currentPrice.Last_updated__c}</p>
+    </template>
+    
+</template>
