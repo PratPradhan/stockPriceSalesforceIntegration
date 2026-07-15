@@ -73,3 +73,10 @@ Chose LWC polling over empApi/CometD streaming, since lightning/empApi isn't sup
 DESIGN CONSIDERATION:
 No token-expiry retry logic in the relay (acceptable for demo-length sessions)
 Single symbol (AAPL) tracked end-to-end; both the Apex controller and platform event schema are designed to extend to multiple symbols
+<img width="1056" height="592" alt="Screenshot 2026-07-14 at 9 33 36 PM" src="https://github.com/user-attachments/assets/46a5fedc-9648-49b7-99b1-caee91384863" />
+<img width="1056" height="592" alt="Screenshot 2026-07-14 at 9 33 36 PM" src="https://github.com/user-attachments/assets/8dcd8066-3ad4-448f-a0bd-7a30debf813c" />
+<img width="1319" height="327" alt="Screenshot 2026-07-14 at 9 34 05 PM" src="https://github.com/user-attachments/assets/7e3f46b7-e6c8-446b-b973-b2a7fff441da" />
+<img width="1328" height="944" alt="Screenshot 2026-07-14 at 9 34 30 PM" src="https://github.com/user-attachments/assets/91ba07f2-e0b3-4412-8560-bbc92ec29cdb" />
+
+
+
